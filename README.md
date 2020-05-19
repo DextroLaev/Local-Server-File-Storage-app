@@ -33,7 +33,7 @@
 
 - you can replace this "app.run(host = '192.168.43.155')" with "app.run()" to run it on localhost.
 
-- To use this locally on your phone you can use "app.run(host= '<your-ip>')", to get your ip run the following command.
+- To use this locally on your phone you can use "app.run(host= your-ip)", to get your ip run the following command.
 
   --> In linux , open terminal:
   
