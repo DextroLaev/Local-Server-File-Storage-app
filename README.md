@@ -1,4 +1,4 @@
-# Local-Server-File-Storer
+# Local-Server-File-Storage app
 
  - This is a simple file storer created using flask. 
  
