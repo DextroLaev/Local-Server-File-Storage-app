@@ -12,7 +12,7 @@
 # Install the neccessary libraries and modules
  - Activate your virtualenv and run the following command in your terminal(LINUX) or cmd(WINDOWS)
  
- - Execute $ pip3 install -r requirements.txt
+   $ pip3 install -r requirements.txt
 
 
 # Creating the database
