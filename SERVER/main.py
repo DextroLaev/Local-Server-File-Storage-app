@@ -10,6 +10,8 @@ app = Flask(__name__)
 
 app.secret_key = 'super-secret-key'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:@localhost/DATA'
+
+# The below line is the path where u want to save your uploaded files, try to use your one
 app.config['UPLOAD_FOLDER'] = '/home/dextrolaev/Desktop/SERVER/static'
 db = SQLAlchemy(app)
 
