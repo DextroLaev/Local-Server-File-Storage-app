@@ -31,14 +31,11 @@ SET time_zone = "+00:00";
 CREATE TABLE `files` (
   `sno` int(11) NOT NULL PRIMARY KEY,
   `data` varchar(50) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+);
 
 --
 -- Dumping data for table `files`
 --
-
-INSERT INTO `files` (`sno`, `data`) VALUES
-(1, 'data');
 
 
 -- AUTO_INCREMENT for table `files`
