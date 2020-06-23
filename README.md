@@ -4,7 +4,7 @@
  
  - This project is a similar to other online file storage app ,e.g:- google drive,dropbox ,etc
  
- - Everyone can run run this on localserver or  can host this online.
+ - Everyone can run this on localserver or can host this online.
  
  - Feel free to contribute and bring changes in this project.   
 
