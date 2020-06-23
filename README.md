@@ -29,7 +29,7 @@
  
 # --------Important---------
 
-- open main.py, at the ver end you will find "app.run(host = '192.168.43.155')" , '192.168.43.155' is my ip.
+- open main.py, at the very end you will find "app.run(host = '192.168.43.155')" , '192.168.43.155' is my ip.
 
 - you can replace this "app.run(host = '192.168.43.155')" with "app.run()" to run it on localhost.
 
